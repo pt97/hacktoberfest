@@ -2,6 +2,11 @@
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
+ 
+#### Name: [Pranjul Tripathi](https://github.com/pt97)
+ - Place: Kanpur, UP, India
+ - Bio: competitive programmer, Web developer
+ - GitHub: [pt97](https://github.com/pt97) 
 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
